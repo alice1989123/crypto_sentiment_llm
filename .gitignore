@@ -1,0 +1,5 @@
+.env
+myenv
+
+*.log
+*.csv
